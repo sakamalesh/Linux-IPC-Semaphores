@@ -1,6 +1,8 @@
 # Linux-IPC-Semaphores
-Ex05-Linux IPC-Semaphores
+## Ex05-Linux IPC-Semaphores
 
+## Name: Kamalesh
+## Reg No: 212223040083
 # AIM:
 To Write a C program that implements a producer-consumer system with two processes using Semaphores.
 
